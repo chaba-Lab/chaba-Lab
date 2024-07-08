@@ -6,9 +6,7 @@ I usually work with C language.
 
 I’m currently learning python,vim
 
-
-
-![](https://skillicons.dev/icons?i=c,cpp,python,kotlin,git,github,linux,vim,vscode,)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,kotlin,git,github,linux,vim,vscode)](https://skillicons.dev)
 
 <!--
 **chaba-Lab/chaba-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
